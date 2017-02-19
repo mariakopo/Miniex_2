@@ -3,7 +3,7 @@ My first program
 
 
 A screenshot:
-[Screenshot]https://mariakopo.github.io/Miniex_2/
+![Screenshot]https://mariakopo.github.io/Miniex_2/
 
 
 •	Describe your coding process

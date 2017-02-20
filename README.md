@@ -2,6 +2,9 @@
 My first program 
 https://mariakopo.github.io/Miniex_2/
 
+Screenshot:
+![Screenshot](https://github.com/mariakopo/Miniex_2/blob/gh-pages/Sk%C3%A6rmbillede%202017-02-19%20kl.%2018.37.13.png)
+
 
 •	Describe your coding process
 
